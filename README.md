@@ -36,31 +36,32 @@ Code:
 Posts the result to the page (id: 157)
 
 ```
-| Firma                | Produkt        | Navn           |Navn         |Epost                           |
-|----------------------|----------------|----------------|-------------|--------------------------------|
-|SolarTech Innovations | SunCharger 3000|Emily Johnson   |555-0321     |emily.johnson@solartech.com     |
-|GreenGro Solutions    | HydroGrow Kit  |Raj Patel       |555-0472     |raj.patel@greengro.com          |
-|Quantum Computing Inc | Qubit Processor|Lee Huang       |555-0603     |lee.huang@quantumcomp.com       |
-|BlueOcean Technologies| AquaDrone      |Maria Gomez     |555-0784     |maria.gomez@blueoceantech.com   |
-|Future Mobility       | SkyHover Car   |Alex Smith      |555-0925     |alex.smith@futuremobility.com   |
-|CyberSecure           | FirewallX      |Nora Khumalo    |555-1036     |nora.khumalo@cybersecure.com    |
-|HealthEase            | CardioFit Band |Carlos Fernandez|555-1177     |carlos.fernandez@healthease.com |
-|EdTech Innovations    | SmartBoard 2025|Sarah Tan       |555-1328     |sarah.tan@edtechinnovations.com |
-|SpaceFrontiers        | Orion Rocket   |Omar Al-Bashir  |555-1469     |omar.albashir@spacefrontiers.com|
-|AI Solutions          | ChatBot Pro    |Jasmine Lee     |555-1600     |jasmine.lee@aisolutions.com     |
+|Firma                 |Produkt        |Navn            |Telefon |Epost                            |
+|----------------------|---------------|----------------|--------|---------------------------------|
+|AI Solutions          |ChatBot Pro    |Jasmine Lee     |555-1600|jasmine.lee@aisolutions.com      |
+|BlueOcean Technologies|AquaDrone      |Maria Gomez     |555-0784|maria.gomez@blueoceantech.com    |
+|CyberSecure           |FirewallX      |Nora Khumalo    |555-1036|nora.khumalo@cybersecure.com     |
+|EdTech Innovations    |SmartBoard 2025|Sarah Tan       |555-1328|sarah.tan@edtechinnovations.com  |
+|Future Mobility       |SkyHover Car   |Alex Smith      |555-0925|alex.smith@futuremobility.com    |
+|GreenGro Solutions    |HydroGrow Kit  |Raj Patel       |555-0472|raj.patel@greengro.com           |
+|HealthEase            |CardioFit Band |Carlos Fernandez|555-1177|carlos.fernandez@healthease.com  |
+|Quantum Computing Inc |Qubit Processor|Lee Huang       |555-0603|lee.huang@quantumcomp.com        |
+|SolarTech Innovations |SunCharger 3000|Emily Johnson   |555-0321|emily.johnson@solartech.com      |
+|SpaceFrontiers        |Orion Rocket   |Omar Al-Bashir  |555-1469|omar.albashir@spacefrontiers.com |
+
 ```
-| Firma                | Produkt        | Navn           |Navn         |Epost                           |
-|----------------------|----------------|----------------|-------------|--------------------------------|
-|SolarTech Innovations | SunCharger 3000|Emily Johnson   |555-0321     |emily.johnson@solartech.com     |
-|GreenGro Solutions    | HydroGrow Kit  |Raj Patel       |555-0472     |raj.patel@greengro.com          |
-|Quantum Computing Inc | Qubit Processor|Lee Huang       |555-0603     |lee.huang@quantumcomp.com       |
-|BlueOcean Technologies| AquaDrone      |Maria Gomez     |555-0784     |maria.gomez@blueoceantech.com   |
-|Future Mobility       | SkyHover Car   |Alex Smith      |555-0925     |alex.smith@futuremobility.com   |
-|CyberSecure           | FirewallX      |Nora Khumalo    |555-1036     |nora.khumalo@cybersecure.com    |
-|HealthEase            | CardioFit Band |Carlos Fernandez|555-1177     |carlos.fernandez@healthease.com |
-|EdTech Innovations    | SmartBoard 2025|Sarah Tan       |555-1328     |sarah.tan@edtechinnovations.com |
-|SpaceFrontiers        | Orion Rocket   |Omar Al-Bashir  |555-1469     |omar.albashir@spacefrontiers.com|
-|AI Solutions          | ChatBot Pro    |Jasmine Lee     |555-1600     |jasmine.lee@aisolutions.com     |
+|Firma                 |Produkt        |Navn            |Telefon |Epost                            |
+|----------------------|---------------|----------------|--------|---------------------------------|
+|AI Solutions          |ChatBot Pro    |Jasmine Lee     |555-1600|jasmine.lee@aisolutions.com      |
+|BlueOcean Technologies|AquaDrone      |Maria Gomez     |555-0784|maria.gomez@blueoceantech.com    |
+|CyberSecure           |FirewallX      |Nora Khumalo    |555-1036|nora.khumalo@cybersecure.com     |
+|EdTech Innovations    |SmartBoard 2025|Sarah Tan       |555-1328|sarah.tan@edtechinnovations.com  |
+|Future Mobility       |SkyHover Car   |Alex Smith      |555-0925|alex.smith@futuremobility.com    |
+|GreenGro Solutions    |HydroGrow Kit  |Raj Patel       |555-0472|raj.patel@greengro.com           |
+|HealthEase            |CardioFit Band |Carlos Fernandez|555-1177|carlos.fernandez@healthease.com  |
+|Quantum Computing Inc |Qubit Processor|Lee Huang       |555-0603|lee.huang@quantumcomp.com        |
+|SolarTech Innovations |SunCharger 3000|Emily Johnson   |555-0321|emily.johnson@solartech.com      |
+|SpaceFrontiers        |Orion Rocket   |Omar Al-Bashir  |555-1469|omar.albashir@spacefrontiers.com |
 
 
 
