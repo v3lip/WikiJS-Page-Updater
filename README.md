@@ -1,6 +1,7 @@
 # WikiJS-Page-Updater
 
 NOT at all a Python programmer.
+You will need to edit the code yourself if you need something like this for your project, as this is pretty hard coded into the Matrix.
 
 Seemed useful for me as I have a pretty big list that needs to be formatted as a table. So this is great as I dont have to manage the markdown table myself with spacings and what not.
 
@@ -31,6 +32,9 @@ AI Solutions,ChatBot Pro,Jasmine Lee,555-1600,jasmine.lee@aisolutions.com
 Code:
  > Sorts it by company    
  > Formats it into a markdown table like this:
+
+Posts the result to the page (id: 157)
+
 ```
 | Firma                | Produkt        | Navn           |Navn         |Epost                           |
 |----------------------|----------------|----------------|-------------|--------------------------------|
