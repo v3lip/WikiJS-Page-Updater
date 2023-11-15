@@ -1,6 +1,6 @@
 # WikiJS-Page-Updater
 
-<NOT at all a Python programmer.>
+NOT at all a Python programmer.
 
 Seemed useful for me as I have a pretty big list that needs to be formatted as a table. So this is great as I dont have to manage the markdown table myself with spacings and what not.
 
