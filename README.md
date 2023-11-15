@@ -1,5 +1,9 @@
 # WikiJS-Page-Updater
 
+<NOT at all a Python programmer.>
+
+Seemed useful for me as I have a pretty big list that needs to be formatted as a table. So this is great as I dont have to manage the markdown table myself with spacings and what not.
+
 This is a simple script that reads a page 'id: 158', sorts the info alphabetically formats the content in the codeblock into a markdown table, and puts the formated markdown table into another page 'id: 157'.
 
 Output from page 'id: 158':
